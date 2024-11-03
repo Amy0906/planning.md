@@ -1,0 +1,2 @@
+I will set a circle and a circle, which means that we need four variables, which could be ax,ay,bx,by. Regarding to the bouncing problem, we need to set four buandries for each edge. 
+I will swap dx and dy variables for each object, so they will bounce off as soon as they touch. 
